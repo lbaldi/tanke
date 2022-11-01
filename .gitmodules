@@ -14,3 +14,7 @@
 	path = odoo_addons_extra
 	url = git@bitbucket.org:blueorangegroup/odoo_addons_extra.git
 	branch = 15.0
+[submodule "odoo_addons_mercadolibre"]
+	path = odoo_addons_mercadolibre
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_mercadolibre.git
+	branch = 15.0
